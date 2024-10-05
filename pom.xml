@@ -12,10 +12,6 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.6.3</version>
-      <configuration>
-        <source>11</source> <!-- Use 11 or your installed Java version -->
-        <target>11</target> <!-- Use 11 or your installed Java version -->
-      </configuration>
       <scope>test</scope>
     </dependency>
   </dependencies>
